@@ -1,1 +1,1 @@
-# Laborat-rio-de-Resolu-o-de-Problemas
+Exercícios desenvolvidos na disciplina de Laboratório de Resolução de Problemas, utilizando Python.
