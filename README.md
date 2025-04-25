@@ -1,1 +1,1 @@
-Exercícios desenvolvidos na disciplina de Laboratório de Resolução de Problemas, utilizando Python.
+Exercícios de lógica de programação desenvolvidos na disciplina de Laboratório de Resolução de Problemas, utilizando linguagem Python.
